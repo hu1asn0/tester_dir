@@ -1,0 +1,9 @@
+.features .glyphicon {
+font-size: 32px;
+color: red;
+text-align: center;
+}
+
+body{
+	padding-top: 50px;
+}
